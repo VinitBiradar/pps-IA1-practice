@@ -2,7 +2,7 @@
 float input()
 {
   float n;
-  printf("enter the number for sqrt\n:");
+  printf("enter the number for sqrt:\n");
   scanf("%f",&n);
   return n;
 }

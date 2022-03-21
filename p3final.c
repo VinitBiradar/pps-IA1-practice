@@ -3,7 +3,7 @@
 int input_n()
 {
   int n;
-  printf("enter a number\n");
+  printf("enter a number: ");
   scanf("%d",&n);
   return n;
 }
